@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map SD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Max6651			KEYWORD1
+ConfigureMax6651	KEYWORD1
+Max6651ClosedLoop	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+actualSpeed	KEYWORD2
+of	KEYWORD2
+on	KEYWORD2
+stop	KEYWORD2
+run	KEYWORD2
+setSpeed	KEYWORD2
+readTachometer	KEYWORD2
+readAndResetAlarmStatus	KEYWORD2
+targetSpeed	KEYWORD2
+minimumSpeed	KEYWORD2
+maximumSpeed	KEYWORD2
+actualSpeed	KEYWORD2	
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+FILE_READ	LITERAL1
+FILE_WRITE	LITERAL1
