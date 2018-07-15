@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Max6651			KEYWORD1
+Max6651	KEYWORD1
 ConfigureMax6651	KEYWORD1
 Max6651ClosedLoop	KEYWORD1
 
@@ -24,7 +24,7 @@ readAndResetAlarmStatus	KEYWORD2
 targetSpeed	KEYWORD2
 minimumSpeed	KEYWORD2
 maximumSpeed	KEYWORD2
-actualSpeed	KEYWORD2	
+actualSpeed	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
